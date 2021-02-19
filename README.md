@@ -20,5 +20,5 @@
 ## Link to Website
 https://rlacer.github.io/HTML-CSS-and-Git-Code-Refractor/
 ## Screenshot
-![screenshot](assets/images/screencapture-rlacer-github-io-HTML-CSS-and-Git-Code-Refractor-2021-02-19-15_28_26.png)
+![screenshot](assets/images/screencapture-github-RLacer-HTML-CSS-and-Git-Code-Refractor-blob-main-README-md-2021-02-19-15_47_31.png)
 
